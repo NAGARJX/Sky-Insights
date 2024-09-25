@@ -5,6 +5,19 @@ This project follows a supervised learning approach, specifically regression, as
 **Data Science Approach**
 This project follows a supervised learning approach, specifically regression, as historical flight data with labeled ticket prices is available for training the model.
 
+**Data Features / Independent Variables**
+Flight_ID: Identifier for each flight.
+Airline: The airline associated with the flight (categorical).
+Departure_City: The city where the flight departs from.e.t.c,
+
+**Tech Stack**
+Python
+SQL/MongoDB
+Machine Learning (Sklearn)
+Mathematics (Numpy)
+Visualization (Plotly)
+Statistics
+
 ***Machine Learning Model - End to End***
 
 **Exploratory Data Analysis (EDA)**
