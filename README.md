@@ -1,10 +1,15 @@
 # Sky-Insights
 The objective of this project is to uncover trends, patterns, and factors influencing air travel behaviors.The project's insights hold potential to inform decision-making processes for airlines, airports, and policymakers, ultimately enhancing efficiency and planning in the aviation industry.
 This project follows a supervised learning approach, specifically regression, as historical flight data with labeled ticket prices is available for training the model.
-**Machine Learning Model - End to End**
+
+**Data Science Approach**
+This project follows a supervised learning approach, specifically regression, as historical flight data with labeled ticket prices is available for training the model.
+
+***Machine Learning Model - End to End***
 
 **Exploratory Data Analysis (EDA)**
 Perform exploratory data analysis using Pandas to understand the dataset:
+  Display the first few rows.
 
 **Data Visualization (Using SweetViz)**
 Create various visualizations to understand data patterns, relationships, and trends.
